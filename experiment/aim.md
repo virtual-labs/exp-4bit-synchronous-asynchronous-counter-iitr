@@ -1,1 +1,1 @@
-### Aim of the experiment
+#### To verify the truth table and timing diagram of 4-bit synchronous parallel counter and 4-bit asynchronous parallel counter by using JK flip flop ICs and analyse the circuit of 4-bit synchronous parallel counter and 4-bit asynchronous parallel counter with the help of LEDs display.

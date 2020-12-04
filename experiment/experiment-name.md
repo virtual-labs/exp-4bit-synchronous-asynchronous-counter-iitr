@@ -1,1 +1,1 @@
-## Experiment name
+## Design and verify the 4- Bit Synchronous/ Asynchronous Counter using JK flip flop
